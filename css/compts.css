@@ -105,7 +105,7 @@ body{
 /****** thambnail ******/
 .thambnail .thambnail-1{
 	background-color:rgba(0, 0, 0, 0.5);
-	background-image: url("img/slidePs.png") ;
+	background-image: url("/img/slidePs.png") ;
 	position: absolute;
 	background-repeat: no-repeat;
 	background-position: center;
