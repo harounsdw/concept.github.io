@@ -43,7 +43,7 @@ padding: 30px 40px;
 .contu .lisr ul{
 	color: #fff;
 	}
-	  @media (max-width:1000px) {
+	  @media (max-width:1050px) {
  	.contu .Amont{
 		position: absolute;
 		z-index: 25;
@@ -105,7 +105,7 @@ body{
 /****** thambnail ******/
 .thambnail .thambnail-1{
 	background-color:rgba(0, 0, 0, 0.5);
-	background-image: url("img/slidePs.png") ;
+	background-image: url("http://localhost/concept/img/slidePs.png") ;
 	position: absolute;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -129,7 +129,7 @@ z-index: 10;
 .thambnail .thambnail-1 .img h1{
 	color: #fff; position: absolute; z-index: 1; right:37%;transform:4s;
  }
- @media (max-width:1200px) {
+ @media (max-width:1050px) {
 .thambnail .thambnail-1 .img{
 	position: absolute;
 	background-color:rgba(0, 0, 0, 0.5);
@@ -172,7 +172,7 @@ text-transform: uppercase;
 .menu ul li a:hover{
 	color: #942625;
 }
- @media (max-width:1300px) {
+ @media (max-width:1050px) {
  	.menu ul{
 	position: absolute;
 left: 0;
@@ -215,7 +215,7 @@ color: #8c8c8c;
 
  
 
-  @media (max-width:1000px) {
+  @media (max-width:1050px) {
  	.reprsent{
 	position: absolute;
 	z-index: 25;
