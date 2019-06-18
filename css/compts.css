@@ -42,6 +42,7 @@ padding: 30px 40px;
 }
 .contu .lisr ul{
 	color: #fff;
+	
 	}
 	  @media (max-width:1050px) {
  	.contu .Amont{
@@ -86,7 +87,7 @@ width: 90%;
 }
 .contu .lisr ul{
 	color: #fff;
-	font-size: 2vw;
+	font-size: 3vw;
 	}
 
 }
