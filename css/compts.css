@@ -42,7 +42,6 @@ padding: 30px 40px;
 }
 .contu .lisr ul{
 	color: #fff;
-	
 	}
 	  @media (max-width:1050px) {
  	.contu .Amont{
@@ -87,7 +86,7 @@ width: 90%;
 }
 .contu .lisr ul{
 	color: #fff;
-	font-size: 3vw;
+	font-size: 2vw;
 	}
 
 }
@@ -106,7 +105,7 @@ body{
 /****** thambnail ******/
 .thambnail .thambnail-1{
 	background-color:rgba(0, 0, 0, 0.5);
-	background-image: url("https://harounsdw.github.io/concept.github.io/img/slidePs.png") ;
+	background-image: url("http://localhost/concept/img/slidePs.png") ;
 	position: absolute;
 	background-repeat: no-repeat;
 	background-position: center;
