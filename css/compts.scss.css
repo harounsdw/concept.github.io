@@ -1,0 +1,420 @@
+
+/****** contenu ****/
+
+/************ Amont ************/
+
+
+/************ Amont ************/
+/************ exploitation ************/
+
+/************ exploitation ************/
+
+/****** contenu ****/
+
+
+body{
+}
+/****** thambnail ******/
+.thambnail .thambnail-1{
+	background-color:rgba(0, 0, 0, 0.5);
+	background-image: url("http://localhost/concept/img/slidePs.png") ;
+	position: absolute;
+	background-repeat: no-repeat;
+	background-position: center;
+
+    top: 20%;
+    left: 2.5%;
+	background-size: cover;
+	height:45%;
+	width:95%;
+z-index: -5;
+}
+
+.thambnail .thambnail-1 .img{
+	position: absolute;
+	background-color:rgba(0, 0, 0, 0.5);
+padding: 11.6% 50%;
+color: #000;
+background-position:center;
+z-index: 10;
+}
+.thambnail .thambnail-1 .img h1{
+	color: #fff; position: absolute; z-index: 1; right:37%;
+ }
+ @media (max-width:1200px) {
+.thambnail .thambnail-1 .img{
+	position: absolute;
+	background-color:rgba(0, 0, 0, 0.5);
+
+color: #000;
+height: 45vh;
+background-position:top;
+z-index:1;
+}
+.thambnail .thambnail-1 .img h1{
+	color: #fff; position: absolute; z-index: 10; right:37%;
+	font-size: 5vw;
+	top: 50%;
+	right:20%;
+	text-align: center;
+ }
+ }
+/****** thambnail ******/
+
+/****** menu ******/
+.menu .nav
+{
+	background-color: #eaeaea;
+	position: absolute;
+	top: 65%;
+	z-index: 20;
+	padding:10px 100px;
+}
+.menu ul{
+	position: absolute;
+left: 11%;
+color: #c5c5c5;
+}
+.menu ul li a{
+font-weight: bold;	
+	color: #c5c5c5;
+	margin: 0 5px;
+text-transform: uppercase;
+}
+.menu ul li a:hover{
+	color: #942625;
+}
+ @media (max-width:1300px) {
+ 	.menu ul{
+	position: absolute;
+left: 0;
+right: 0;
+text-align:center;
+width: 100%;
+color: #c5c5c5;
+}
+.menu ul li a{
+	font-weight: bold;	
+	color: #c5c5c5;
+	text-align: center;
+text-transform: uppercase;
+ }
+}
+/****** menu ******/
+
+/****** represent ******/
+.reprsent{
+	position: absolute;
+	z-index: 30;
+	width: 60%;
+	top: 90%;
+	left: 11%;
+
+}
+.reprsent h1{
+	position: absolute;
+	color: #942625;
+	font-weight: bold;
+	text-transform: uppercase;
+z-index: 30;
+bottom: 20px;
+}
+.reprsent p{
+	position:absolute;
+color: #8c8c8c;
+	z-index: 40;
+}
+
+ 
+
+  @media (max-width:1000px) {
+ 	.reprsent{
+	position: absolute;
+	z-index: 25;
+	top: 140%;
+	left: 11%;
+
+}
+/****** represent ******/
+
+    
+
+
+	.contu .Amont{
+		position: absolute;
+		z-index: 20;
+		top: 180%;
+		width: 50%;
+	}
+	.contu .logo{
+		position: absolute;
+		top: 100%;
+left: 50%;
+width: 30%;
+		z-index: 29;
+	}
+	.contu .Amont img{
+		position: absolute;
+		width: 100%;
+		z-index: 21;
+	}
+.contu .lisr{
+	position: absolute;
+	top: 150%;
+left: 45%;
+background-color: #942625;
+z-index: 28;
+width: 40%;
+padding: 30px 40px;
+
+}
+.contu .lisr h1{
+	position: relative;
+	top: 0;
+	text-transform:uppercase;
+	font-weight: bold;
+	color: #fff;
+	z-index: 36;
+}
+.contu .lisr ul{
+	color: #fff;
+	}
+	  @media (max-width:900px) {
+ 	.contu .Amont{
+		position: absolute;
+		z-index: 25;
+		top: 200%;
+		width: 100%;
+	}
+	.contu .logo{
+		position: absolute;
+		top: 240%;
+left: 50%;
+width: 20%;
+		z-index: 29;
+	}
+	.contu .Amont img{
+		position: absolute;
+		width: 100%;
+		z-index: 21;
+		top: 900px;
+	}
+.contu .lisr{
+	position: absolute;
+	top: 1200px;
+	left: 0;
+height: auto;
+background-color: #942625;
+z-index: 28;
+width: 90%;
+
+
+}
+.contu .lisr h1{
+	position: relative;
+	top: 0;
+	text-transform:uppercase;
+	font-weight: bold;
+	color: #fff;
+	z-index: 36;
+	font-size: 3vw;
+}
+.contu .lisr ul{
+	color: #fff;
+	font-size: 2vw;
+	}
+
+}
+}
+
+.exploitation .Amont{
+        position: absolute;
+        z-index: 20;
+        top: 230%;
+        width: 50%;
+        left: 50%;
+}
+.exploitation .Amont img{
+        position: absolute;
+        width: 100%;
+        z-index: 21;
+    }
+.exploitation .lisr{
+        position: absolute;
+    top: 250%;
+left: 10%;
+background-color: #942625;
+z-index: 28;
+width: 40%;
+padding: 30px 20px;
+}
+.exploitation .lisr h1{
+    position: relative;
+    top: 0;
+    text-transform:uppercase;
+    font-weight: bold;
+    color: #fff;
+    z-index: 36;
+}
+.exploitation .lisr ul{
+    color: #fff;
+    }
+  @media (max-width:1100px) {
+    .exploitation .Amont{
+        position: absolute;
+        z-index: 20;
+        top: 433%;
+        left: 0;
+        width:100%;
+}
+.exploitation .Amont img{
+        position: absolute;
+        width: 100%;
+        z-index: 21;
+    }
+.exploitation .lisr{
+        position: absolute;
+    top: 390%;
+background-color: #942625;
+z-index: 28;
+left: 0;
+height: auto;
+width: 90%;
+font-size: 2vw;
+}
+.exploitation .lisr h1{
+    position: relative;
+    top: 0;
+    text-transform:uppercase;
+    font-weight: bold;
+    color: #fff;
+    z-index: 36;
+    font-size: 3vw;
+
+}
+.exploitation .lisr ul{
+    color: #fff;
+    }
+}
+  .soeco .Amont{
+        position: absolute;
+        z-index: 25;
+        top: 340%;
+        width: 50%;
+    }
+
+    .soeco .Amont img{
+        position: absolute;
+        width: 100%;
+        z-index: 21;
+    }
+.soeco .lisr{
+    position: absolute;
+    top: 350%;
+left: 45%;
+background-color: #942625;
+z-index: 28;
+width: 40%;
+padding: 30px 40px;
+
+}
+.soeco .lisr h1{
+    position: relative;
+    top: 0;
+    text-transform:uppercase;
+    font-weight: bold;
+    color: #fff;
+    z-index: 36;
+}
+.soeco .lisr ul{
+    color: #fff;
+    }
+      @media (max-width:1100px) {
+        .copyright{
+  position: absolute;
+    bottom: -930%;
+    width: 100%;
+    z-index: 22;
+        }
+           footer{
+        
+   position: absolute;
+    bottom: -880%;
+    z-index: 22;
+        }
+                .bloc4 {
+    position: absolute;
+    bottom: -600%;
+    z-index: 22;
+ }
+ .bloc4 .row .div1{
+    font-size: 3vw;
+    padding: -100%;
+
+ }
+  .bloc4 .row .div2 button{
+    font-size: 3vw;
+    padding:0 40%;
+
+ }
+    .soeco .Amont{
+        position: absolute;
+        z-index: 20;
+        top: 230%;
+        width: 100%;
+    }
+
+    .soeco .Amont img{
+        position: absolute;
+        width: 100%;
+        z-index: 21;
+        top: 1500px;
+    }
+.soeco .lisr{
+    position: absolute;
+    top: 500%;
+    left: 0;
+height: auto;
+background-color: #942625;
+z-index: 28;
+width: 90%;
+
+
+}
+.soeco .lisr h1{
+    position: relative;
+    top: 0;
+    text-transform:uppercase;
+    font-weight: bold;
+    color: #fff;
+    z-index: 36;
+    font-size: 3vw;
+}
+.soeco .lisr ul{
+    color: #fff;
+    font-size: 2vw;
+    }
+
+}
+}
+
+            .copyright{
+  position: absolute;
+    bottom: -480%;
+    width: 100%;
+
+    z-index: 22;
+        }
+        footer{
+   position: absolute;
+    bottom: -480%;
+    z-index: 22;
+        }
+         .bloc4 {
+        
+    position: absolute;
+    bottom: -400%;
+    z-index: 22;
+    width: 100%;
+ }
+         
